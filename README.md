@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 <!--
 **Hardik-S-003/Hardik-S-003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
